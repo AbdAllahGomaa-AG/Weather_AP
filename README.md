@@ -17,5 +17,8 @@ live demo:https://abdallahgomaa-ag.github.io/Weather_API/
 
 Repo: https://github.com/AbdAllahGomaa-AG/Weather_API
 
+![screencapture-ui-dev-amiresponsive-2024-07-17-13_08_56](https://github.com/user-attachments/assets/0df11ab7-dc04-4afc-a8b2-ad2f3108e079)
+
+
 ![screencapture-abdallahgomaa-ag-github-io-Weather-API-2024-04-29-15_12_35](https://github.com/AbdAllahGomaa-AG/Family-Bakery/assets/73030608/5f74af48-24c5-4cd7-a6f4-72c4f5956c50)
 
